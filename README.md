@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📄Chek out my [Resume](https://drive.google.com/file/d/13P2r0WFbs4ARt0BoO14NVuGZq8fxez3F/view?usp=drivesdk)
+- 📄Chek out my [Resume](https://drive.google.com/file/d/17Xh0fxG9lw8l3gOVmFRh_ypWj0_nV0NA/view?usp=sharing)
 
 - 🌱 I’m currently exploring **DSA and Web Development**
 
